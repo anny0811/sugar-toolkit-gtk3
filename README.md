@@ -45,3 +45,16 @@ sugar-datastore.
 
 Clone the repository, run `autogen.sh`, then `make` and `make
 install`.
+
+## sugar3.presence Module
+This module provides presence-related functionality for Sugar Toolkit GTK3.
+
+### Features
+- Handle user presence states
+- Intergrates with Sugar activity framework
+### Location 
+'doc/sugar3/presence'
+
+#### Added by 
+Documentation contributed as part of open-source contribution.
+  
