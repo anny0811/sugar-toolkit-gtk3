@@ -45,3 +45,17 @@ sugar-datastore.
 
 Clone the repository, run `autogen.sh`, then `make` and `make
 install`.
+
+
+# Presence Module
+
+The `sugar3.presence` module provides APIs that enable collaboration
+between Sugar activities.
+
+It allows activities to discover shared activities, join existing
+sessions, and communicate with other users over the network.
+
+For detailed usage, see the documentation in:
+`src/sugar3/presence.py`
+
+
