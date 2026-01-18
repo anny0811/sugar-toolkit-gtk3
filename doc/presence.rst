@@ -1,4 +1,4 @@
-Presence Modules
+pwdPresence Modules
 ================
 The "sugar3.presence" module provides APIs for collaboration and sharing between Sugar activities.
 It allows activities to discover each other, share objects, and communitcate over the network using the Sugar presence service.
